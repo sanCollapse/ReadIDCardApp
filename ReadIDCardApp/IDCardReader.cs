@@ -20,7 +20,6 @@ namespace ReadIDCardApp
         static int parg1 = 8811;
         static int parg2 = 9986;
 
-
         /// <summary>
         /// 基本函数
         /// </summary>
